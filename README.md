@@ -3,6 +3,9 @@
 ![app screenshot](./assets/images/app-screenshot.png)
 
 ## Description
+
+Welcome to [Pizza Hunt](https://enigmatic-chamber-92273.herokuapp.com/)! A place where you can craft your own pizza recipe's! <br>
+
 ## Table of Contents
 
 - [Usage](#usage)
